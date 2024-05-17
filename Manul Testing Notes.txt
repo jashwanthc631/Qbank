@@ -1,0 +1,199 @@
+CHAPTER 1 
+Topic :- Introduction of Software Testing 
+
+
+Manul Testing also called it as Functional QA
+
+Roles and responcibilities of Functional QA
+
+1. Understanding the application requirements 
+2. Understanding the RTM Document 
+3. Identifying scenerious 
+4. Understanding the Test plan Document 
+5. Desining Test Cases 
+6. Involivng in test case review 
+7. Prepare Test data  
+8. Involving in test case execution 
+9. Involving in defect tracking and Reporting 
+10. Involving in sanity , Functional , Re testing , regression , Somke and UAT.
+11. Prepare Status Report 
+12. Communicating with Clients and team 
+
+What is Software Testing 
+
+b4 that What is Software ?
+
+Software is the collection of computer programming which is developed for a Specific Requirements 
+
+IN Software We have 3 types 
+
+* Application Software 
+* Product Software 
+* System Software 
+
+Application Software :- It is the type of Software which is developed for a specific customre .
+
+Product Software :- It is the type of software which is developed for a Multiple Customer .
+
+System Software :- It is the type of the Software which is developed for a computer Hardware .
+
+Types of application and product Software :-
+
+* Windows Software 
+* Web-Application Software 
+
+Windows Software :- The Software which are Installing in computer and Using .
+
+Web-applications Software :- The software Accessing through browser .
+
+
+Now Whats is Software Testing ?
+
+I can give an multiple definations about the software Testing 
+
+* Softeware Testing is an Activity to test the customers ecpected requirements are matching with the developed software or not .
+* Softeware Testing is the process of Identifying the Correctness, Completeness and Quality of the Software .
+* Software Testing is the process Improving the Quality of the software 
+* Software Testing is the Process of Identifying the Quality of the Software .
+
+Completness :- Whether develpoed Software is developed fro all the requirements or not 
+Correctness :- Whether it is working properly or not 
+Quality :- Nothing but the Satisfection 
+
+
+What is Quality ?
+
+Qualtiy is the customer Satisfection 
+
+when we call as the Software is the Quality Software ?
+
+* Software Should be Bug Free ( without Any Error )
+* Software Should be Completed with in the time Frame 
+* Software Should Be completed Wiht in the Budget 
+
+Importance of the Software Testing 
+
+* To Identify Defect 
+* To Avoid End User Detecting Promblem 
+* To Prove that Software has no foults 
+* To Prove That the software is working as per the customers requirements
+* To stay in business .
+
+What is ERROR , DEFECT , BUG , FAILURE ?
+
+* Error's are found by the developer while Executing the programm 
+* Defect's are found by the Testers While Testing process 
+* Bug are found by the UAT team It is the mis-matching b/w the Expected and Actula result .
+* Failures :- It is the mis-matching b/w the Expected and Actula this are found by the End Users in a real time scenarioes .
+
+
+
+
+
+CHAPTER 2
+Topic :- SDLC-Software Development Life Cycle
+
+Software Development Life Cycle It is used in Software Industry to Design , Dvelopment and to test the Quality of the Software .
+
+With Some Phases :- 
+
+* Initial / Requirement Phase
+* Analysis Phase 
+* Designing Phase 
+* Development Phase 
+* Testing Phase 
+* Delevery And Maintain Phase .
+
+SDLC Aim to produce the hight Quality of the software with customers   
+
+:- AGAIL PROCESS :- 
+
+Agail model is an increment and itirative process of the Software development .
+
+Customer Requirement's is 1000 
+
+if the 1000 User Stories 
+
+Then in Agail model we do it as 3 release 
+
+R1 :- 300 
+      C1:-100 we do FT =100 reg 
+      C2:-100 we do FT =200 reg 
+      C3:-100 we do FT =300 reg 
+
+R2 :- 300
+      C1:-100 we do FT =400 reg 
+      C2:-100 we do FT =500 reg 
+      C3:-100 we do FT =600 reg 
+      
+R3 :- 400 
+      C1:-100 we do FT =700 reg 
+      C2:-100 we do FT =800 reg 
+      C3:-200 we do FT =1000 reg 
+                                   This is how the Agail model will work 
+
+ #. Scrum Methadology is used fro managing the agail project 
+
+And we will have the Scrum Team 
+
+We can Name our self for our Scrum Team :- 
+
+In this :- 
+* Product Owner will involve daily 
+* Scrum Master will involve ( Team Lead )
+* Developer 
+* Tester 
+
+What is Sprint :- Sprint is the fixed lenght development period with a clear goal .
+
+:- In Scrum There are Three Types of Backlogs are there to plan and manage the Agail Project 
+   They are :-
+
+ * Sprint Backlog 
+ * Release Backlog 
+ * Product Backlog 
+
+What is Sprint Backlog ?
+:- It is the fixed lenght development period with clear goal is called Sprint Backlog .
+
+What is Release Backlog ?
+:- It is the combinations of the 3 cycles and releasing as one release called the release backlog .
+
+What is the Product Backlog ?
+:- While developing process if any new ideas are come from the Product owner , Developer , Scrum Master or Tester is called the Product Backlog .
+
+
+--> And Productivity in Agail Process is 6-Hours and rest 2-Hours from the Scrum Meeting 
+
+In Scrum Meeting We have to Discuss only :-
+
+* What i have completed from the last Sprint .
+* What i have planned from currnet Sprint to next Sprint.
+* Do i have Any Road Block's ( This things to be Discuss in Scrum Meeting ) .
+
+
+Sprint Planning :- Sprint Planning is done by the Scrum Master 
+                   * To no the avaliability of the Associatives and to assign the User Stories as per the Requirements.
+
+Sprint Status :- Its nothing but the Burn Down Chart :- To tarck the working hours in Agail process .
+
+
+What is Agail Retrospective Meeting ?
+
+:- Agail Retrospective Meeting can thought us the learnt lession Meeting 
+
+And here everyone Sholud discuss only :-
+      * What Went Well ?
+        :- Any RNR's 
+      * What not Went Well ?
+      * What actions can be taken for taking our process forward .
+
+ 
+          
+
+
+
+
+      
+
+   
